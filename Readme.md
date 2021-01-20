@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Александр Шах](https://up.htmlacademy.ru/htmlcss/30/user/1505709).
-* Наставник: `Неизвестно`.
+- Студент: [Александр Шах](https://up.htmlacademy.ru/htmlcss/30/user/1505709).
+- Наставник: `[Александр Пасунько](https://htmlacademy.ru/profile/id702351)`.
 
 ---
 
